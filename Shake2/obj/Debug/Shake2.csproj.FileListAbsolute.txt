@@ -1,0 +1,6 @@
+D:\Работа\GitHub\Shake2\Shake2\bin\Debug\Shake2.exe.config
+D:\Работа\GitHub\Shake2\Shake2\bin\Debug\Shake2.exe
+D:\Работа\GitHub\Shake2\Shake2\bin\Debug\Shake2.pdb
+D:\Работа\GitHub\Shake2\Shake2\obj\Debug\Shake2.csprojResolveAssemblyReference.cache
+D:\Работа\GitHub\Shake2\Shake2\obj\Debug\Shake2.exe
+D:\Работа\GitHub\Shake2\Shake2\obj\Debug\Shake2.pdb
